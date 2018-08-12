@@ -1,0 +1,20 @@
+{
+  "name": "btb-omega-mock-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" "json-server src/db.json --routes src/routes.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appility/btb-omega-mock-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appility/btb-omega-mock-api/issues"
+  },
+  "homepage": "https://github.com/appility/btb-omega-mock-api#readme"
+}
